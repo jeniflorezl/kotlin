@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DnaTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-05-26T01:02:36" hostname="Jeniffers-MacBook-Pro.local" time="0.029">
+  <properties/>
+  <testcase name="validatesNucleotides" classname="DnaTest" time="0.011"/>
+  <testcase name="canCountMultipleNucleotides" classname="DnaTest" time="0.018"/>
+  <testcase name="canCountOneNucleotideInSingleCharacterInput" classname="DnaTest" time="0.0"/>
+  <testcase name="emptyDnaStringHasNoNucleotides" classname="DnaTest" time="0.0"/>
+  <testcase name="canCountRepeatedNucleotide" classname="DnaTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
